@@ -6,10 +6,8 @@ the other site in other ec2 .
 
 the file that we work with :
 
-1.Main.tf
-2.SG.tf
-3.Var.tf
-4.ELB.tf
+Main.tf,SG.tf,Var.tf,ELB.tf
+
 
  
 How to use the code ?
