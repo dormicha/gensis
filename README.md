@@ -4,6 +4,13 @@ Hey and welcome to my First Devops Project , this project is based on Terraform 
 each ec2 has diffrenet user data that you can see in dat1 & data2 they based on apache web server that comes up straight when the machines goes up , i also added an Security group and ELB so when you refesh the page it will shows
 the other site in other ec2 . 
 
+the file that we work with :
+
+1.Main.tf
+2.SG.tf
+3.Var.tf
+4.ELB.tf
+
  
 How to use the code ?
 
