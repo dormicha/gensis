@@ -6,7 +6,7 @@ the other site in other ec2 .
 
 the file that we work with :
 
-Main.tf,SG.tf,Var.tf,ELB.tf
+Main.tf,SG.tf,Var.tf,ELB.tf,Gensis.html,information.html
 
 
  
@@ -16,7 +16,7 @@ git clone the program
 
 cd to the desired module directory
 
-add your own data to var.tf file
+add your own data to var.tf,gensis.html,information.html files
 
 run the following commands:
 
