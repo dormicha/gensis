@@ -21,5 +21,5 @@ variable "secret_key" {
 }
 
 variable "vpc_id" {
-  default = "vpc-0d109cee62c8a08c4"
+  default = "-----------"
 }
