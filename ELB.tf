@@ -5,11 +5,6 @@ resource "aws_lb_target_group" "TG" {
   vpc_id = var.vpc_id
 }
 
-resource "aws_vpc" "main" {
-  cidr_block = "10.0.0.0/16"
-
-}
-
 
 resource "aws_elb" "LB" {
   name = "LB"
