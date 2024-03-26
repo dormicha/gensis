@@ -27,6 +27,6 @@ second command: terraform plan
 third command : terraform apply
 
 
-Conntecing to AWS
+Connecting to AWS
 I recommended to not add AWS_ACCESS_KEY and AWS_SECRET_KEY to the TFs, this is a BIG NO NO !
 The recomendation is to use the Provider Vault to store your ACCESS & SECRET keys.
